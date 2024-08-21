@@ -9,10 +9,16 @@ const menuData: Menu[] = [
   },
   {
     id: 2,
-    title: "Personal Projects",
+    title: "Projects",
     path: "/about",
     newTab: false,
   },
+  // {
+  //   id: 4,
+  //   title: "Cour",
+  //   path: "/about",
+  //   newTab: false,
+  // },
   {
     id: 33,
     title: "Blog",
