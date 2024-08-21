@@ -3,44 +3,44 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Why Teaching",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "A little reflection on why I care about teaching and why I think it's important.",
     image: "/images/blog/blog-01.jpg",
-    author: {
-      name: "Samuyl Joshi",
-      image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
-    },
-    tags: ["creative"],
+    // author: {
+    //   name: "Samuyl Joshi",
+    //   image: "/images/blog/author-01.png",
+    //   designation: "Graphic Designer",
+    // },
+    tags: ["Teaching"],
     publishDate: "2025",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "Why Exercise",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "a little reflection to why I excercise",
     image: "/images/blog/blog-02.jpg",
-    author: {
-      name: "Musharof Chy",
-      image: "/images/blog/author-02.png",
-      designation: "Content Writer",
-    },
-    tags: ["computer"],
+    // author: {
+    //   name: "Musharof Chy",
+    //   image: "/images/blog/author-02.png",
+    //   designation: "Content Writer",
+    // },
+    tags: ["Personal Health"],
     publishDate: "2025",
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "My Development Setup",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      "The tools I use to develop software and why I use them.",
     image: "/images/blog/blog-03.jpg",
-    author: {
-      name: "Lethium Deo",
-      image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
-    },
-    tags: ["design"],
+    // author: {
+    //   name: "Lethium Deo",
+    //   image: "/images/blog/author-03.png",
+    //   designation: "Graphic Designer",
+    // },
+    tags: ["Productivity", "Technical"],
     publishDate: "2025",
   },
 ];
