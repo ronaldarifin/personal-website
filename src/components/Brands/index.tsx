@@ -9,7 +9,7 @@ const Brands = () => {
       <div className="container">
         <SectionTitle
             title="Skills"
-            paragraph="Some skills I gained over the years."
+            paragraph="Technologies I have worked with"
             center
           />
         <div className="-mx-4 flex flex-wrap">
