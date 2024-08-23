@@ -31,7 +31,7 @@ const blogData: Blog[] = [
   },
   {
     id: 3,
-    title: "My Development Setup",
+    title: "How I built this website",
     paragraph:
       "The tools I use to develop software and why I use them.",
     image: "/images/blog/blog-03.jpg",
