@@ -14,6 +14,7 @@ const blogData: Blog[] = [
     // },
     tags: ["Teaching"],
     publishDate: "2025",
+    blog_detail_endpoint: "blog/class_projects",
   },
   {
     id: 2,
@@ -28,6 +29,7 @@ const blogData: Blog[] = [
     // },
     tags: ["Internship"],
     publishDate: "2025",
+    blog_detail_endpoint: "blog/hrhouz",
   },
   {
     id: 3,
@@ -42,6 +44,7 @@ const blogData: Blog[] = [
     // },
     tags: ["Internship"],
     publishDate: "2025",
+    blog_detail_endpoint: "blog/sayurbox",
   },
   {
     id: 4,
@@ -56,6 +59,7 @@ const blogData: Blog[] = [
     // },
     tags: ["Berkeley"],
     publishDate: "2025",
+    blog_detail_endpoint: "blog/hackathons",
   },
 ];
 export default blogData;
