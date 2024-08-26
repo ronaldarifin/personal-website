@@ -21,7 +21,7 @@ const blogData: Blog[] = [
     title: "Why Exercise [In progress]",
     paragraph:
       "a little reflection to why I excercise",
-    image: "/images/blog/workout.jpg",
+    image: "/images/blog/workout.JPG",
     // author: {
     //   name: "Musharof Chy",
     //   image: "/images/blog/author-02.png",
