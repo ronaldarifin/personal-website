@@ -13,8 +13,8 @@ import { Metadata } from "next";
 import Projects from "@/components/Projects";
 
 export const metadata: Metadata = {
-  title: "Free Next.js Template for Startup and SaaS",
-  description: "This is Home for Startup Nextjs Template",
+  title: "Ronald Arifin",
+  description: "Welcom to my website!",
   // other metadata
 };
 
