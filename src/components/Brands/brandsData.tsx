@@ -10,8 +10,8 @@ const brandsData: Brand[] = [
   },
   {
     id: 2,
-    name: "Rust",
-    href: "https://www.rust-lang.org",
+    name: "Terraform",
+    href: "https://www.terraform.io/",
     image: "/images/brands/terraform.svg",
     imageLight: "/images/brands/terraform.svg",
   },
