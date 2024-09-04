@@ -11,15 +11,18 @@ const Hero = () => {
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4">
               <div className="mx-auto max-w-[800px] text-center">
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  Hi! I'm Ronald
-                </h1>
-                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  I'm Ronald, a computer science undergrad at the University of California, Berkeley. I'm interested in backend, infrastructure, databases, and distributes systems. In this blog, I'll write about the things I enjoy doing, some articles I think would be cool both technical and non-technical, and my teaching experiences as a Teaching Asistant at Berkeley.
-                </p>
-                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Currently, I'm working in HRHouz, a startup that focuses on automating HR processes.
-                </p>
+              <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
+                Hi! I'm Ronald
+              </h1>
+              <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
+                I'm a computer science undergraduate at the University of California, Berkeley, with a strong interest in backend development, infrastructure, databases, security, and distributed systems.
+              </p>
+              <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
+                Currently, I'm working at HRHouz, a startup focused on automating HR processes. I developed a backend service that helps recruiters efficiently find candidates whose profiles match job descriptions.
+              </p>
+              <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
+                Outside of coding, I’m passionate about endurance sports like cycling, running, and swimming. On this website, I’ll share my thoughts on both technical and non-technical topics, as well as my experiences as a Teaching Assistant at Berkeley.
+              </p>
 
                 {/* <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
