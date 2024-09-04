@@ -26,38 +26,12 @@ const BlogDetailsPage = () => {
                   </div>
                 </div>
                 <div>
-                  <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
-                  </p>
-                  <div className="mb-10 w-full overflow-hidden rounded">
-                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
-                      <Image
-                        src="/images/blog/blog-details-02.jpg"
-                        alt="image"
-                        fill
-                        className="object-cover object-center"
-                      />
-                    </div>
-                  </div>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Quis enim lobortis scelerisque fermentum. Neque
-                    sodales ut etiam sit amet. Ligula ullamcorper
-                    <strong className="text-primary dark:text-white">
-                      malesuada
-                    </strong>
-                    proin libero nunc consequat interdum varius. Quam
-                    pellentesque nec nam aliquam sem et tortor consequat.
-                    Pellentesque adipiscing commodo elit at imperdiet.
+                    There are many interesting courses that I take here at Berkeley.                    
+
                   </p>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                     Semper auctor neque vitae tempus quam pellentesque nec.
-                    <span className="text-primary underline dark:text-white">
-                      Amet dictum sit amet justo
-                    </span>
                     donec enim diam. Varius sit amet mattis vulputate enim nulla
                     aliquet porttitor. Odio pellentesque diam volutpat commodo
                     sed.
