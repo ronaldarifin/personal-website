@@ -11,17 +11,20 @@ const Hero = () => {
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4">
               <div className="mx-auto max-w-[800px] text-center">
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
+                <h1 className="intro-text mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                   Hi! I'm Ronald
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  If you forget my name, you can remember me as "Ronald Duck" or "Mc Ronald's"
+                  If you forget my name, you can remember me as "Ronald Duck" or
+                  "Mc Ronald's"
                 </p>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                   SO! I'm a computer science undergraduate at the University of
-                  California, Berkeley graduating this December 2024. I love my course work in databases and
-                  security, and I'm interested in distributed systems and
-                  infrastructure. I'm particularly experienced with Python, APIs design, databases, and security with a little hint of CI/CD and cloud infrastructure.
+                  California, Berkeley graduating this December 2024. I love my
+                  course work in databases and security, and I'm interested in
+                  distributed systems and infrastructure. I'm particularly
+                  experienced with Python, APIs design, databases, and security
+                  with a little hint of CI/CD and cloud infrastructure.
                 </p>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                   Currently, I'm working at HRHouz, a startup focused on
@@ -31,14 +34,15 @@ const Hero = () => {
                 </p>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                   Outside of coding, I’m passionate about endurance sports like
-                  cycling, running, and swimming. Heck, I would love to do an Ironman! On this website, I’ll share my
-                  thoughts on both technical and non-technical learnings. Feel free to explore!
+                  cycling, running, and swimming. Heck, I would love to do an
+                  Ironman! On this website, I’ll share my thoughts on both
+                  technical and non-technical learnings. Feel free to explore!
                 </p>
               </div>
             </div>
           </div>
         </div>
-       
+
         <div className="absolute bottom-0 left-0 z-[-1] opacity-30 lg:opacity-100">
           <svg
             width="364"

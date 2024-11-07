@@ -6,7 +6,11 @@
 
 @layer base {
   body {
-    font-family: "Inter", sans-serif;
+    font-family: "Roboto", sans-serif;
+  }
+
+  .intro-text {
+    font-family: "JetBrains Mono", monospace;
   }
 }
 

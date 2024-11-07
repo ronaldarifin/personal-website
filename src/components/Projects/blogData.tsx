@@ -12,7 +12,7 @@ const blogData: Blog[] = [
     //   image: "/images/blog/author-01.png",
     //   designation: "Graphic Designer",
     // },
-    tags: ["Teaching"],
+    tags: ["Coursework"],
     publishDate: "2025",
     // blog_detail_endpoint: "articles/class_projects",
     blog_detail_endpoint: "/",
@@ -37,7 +37,7 @@ const blogData: Blog[] = [
     id: 3,
     title: "Sayurbox",
     paragraph:
-      "As a frontend engineer, I created UIs for Sayurbox's WMS Team.",
+      "As a frontend engineer, I created UIs for Sayurbox's warehouse management team.",
     image: "/images/projects/sayurbox.png",
     // author: {
     //   name: "Lethium Deo",
@@ -54,13 +54,13 @@ const blogData: Blog[] = [
     title: "Hackathons",
     paragraph:
       "I joined multiple hackathons at college learning to create projects and work as a team.",
-    image: "/images/projects/mlh.png",
+    image: "/images/projects/hackathon.JPG",
     // author: {
     //   name: "Lethium Deo",
     //   image: "/images/blog/author-03.png",
     //   designation: "Graphic Designer",
     // },
-    tags: ["Berkeley"],
+    tags: ["Experiences"],
     publishDate: "2025",
     // blog_detail_endpoint: "articles/hackathons",
     blog_detail_endpoint: "/",
