@@ -11,7 +11,7 @@ import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
 import Projects from "@/components/Projects";
-
+import Homepage from "@/components/Homepage/home";
 export const metadata: Metadata = {
   title: "Ronald Arifin",
   description: "Welcom to my website!",
@@ -22,14 +22,11 @@ export default function Home() {
   return (
     <>
       <ScrollUp />
-      <Hero />
+      <Homepage />
+      {/* <Hero />
       <Projects />
       <Brands />
-      {/* <AboutSectionTwo /> */}
-      {/* <Testimonials /> */}
-      {/* <Pricing /> */}
-      <Blog />
-      {/* <Contact /> */}
+      <Blog /> */}
     </>
   );
 }
