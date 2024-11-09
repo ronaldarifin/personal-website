@@ -8,15 +8,15 @@ import "node_modules/react-modal-video/css/modal-video.css";
 import "../styles/index.css";
 
 const roboto = Roboto({
-  weight: ['400', '500', '700'],  // Choose the weights you need
+  weight: ["400", "500", "700"], // Choose the weights you need
   subsets: ["latin"],
-  display: 'swap',
+  display: "swap",
 });
 
 const jetbrainsMono = JetBrains_Mono({
-  weight: ['400', '500', '700'],
+  weight: ["400", "500", "700"],
   subsets: ["latin"],
-  display: 'swap',
+  display: "swap",
 });
 
 export default function RootLayout({
@@ -32,7 +32,7 @@ export default function RootLayout({
       */}
       <head />
 
-      <body className={`bg-[#FCFCFC] dark:bg-black ${roboto.className}`}>
+      <body className={`bg-[#FCFCFC] dark:bg-black ${jetbrainsMono.className}`}>
         <Providers>
           <Header />
           {children}

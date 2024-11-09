@@ -11,7 +11,7 @@ import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
 import Projects from "@/components/Projects";
-import Homepage from "@/components/Homepage/home";
+import Homepage from "@/components/Homepage/index";
 export const metadata: Metadata = {
   title: "Ronald Arifin",
   description: "Welcom to my website!",
