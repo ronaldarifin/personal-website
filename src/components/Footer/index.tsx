@@ -34,7 +34,7 @@ const Footer = () => {
               LinkedIn
             </Link>
             <Link
-              href="https://leetcode.com/u/ronaldarifin/"
+              href="https://leetcode.com/u/ronaldarifin_/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-gray-600 hover:text-primary dark:text-gray-400 dark:hover:text-primary"
