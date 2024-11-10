@@ -6,6 +6,7 @@ import ScrollToTop from "@/components/ScrollToTop";
 import { Roboto, JetBrains_Mono } from "next/font/google";
 import "node_modules/react-modal-video/css/modal-video.css";
 import "../styles/index.css";
+import GoogleAnalytics from '@/components/GoogleAnalytics';
 
 const roboto = Roboto({
   weight: ["400", "500", "700"], // Choose the weights you need
@@ -38,6 +39,7 @@ export default function RootLayout({
           {children}
           <Footer />
           <ScrollToTop />
+          <GoogleAnalytics />
         </Providers>
       </body>
     </html>
