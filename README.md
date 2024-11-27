@@ -11,4 +11,4 @@ I built my website using templates of Next.JS. Then I realized that it looks too
 You can see it here at ronaldarifin.com
 
 ## How is it deployed?
-I didn't configure too much of the deployments in this one
+I didn't configure too much of the deployments in this one. I just use vercel! The goal isn't to learn infra or devops, so I will learn that on another project
